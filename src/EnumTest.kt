@@ -7,7 +7,7 @@ enum class directions{
 }
 
 fun main(){
-    var dir=directions.WEST
+    val dir=directions.WEST
     if(dir==directions.EAST)
     {
         println("HE WENT TO $dir")
