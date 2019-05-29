@@ -1,5 +1,5 @@
 open class operations1(){
-    open fun add(n1:Int, n2:Int):Int {
+    open fun add(n1:Int, n2:Int):Int { 
         println("ADDITION:")
         return n1+n2
     }
